@@ -8620,7 +8620,9 @@ input, select, textarea {
 }
 
 @media screen and (max-width: 736px) {
-  .banner .content {
-    padding-bottom: 4rem;
+  .banner.fullscreen {
+    height: auto !important;
+    min-height: 100vh;
+    padding-bottom: 2rem; /* Adds nice breathing room */
   }
 }
