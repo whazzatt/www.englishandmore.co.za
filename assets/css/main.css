@@ -8621,6 +8621,6 @@ input, select, textarea {
 
 @media screen and (max-width: 736px) {
   .banner .content {
-    padding-bottom: 3rem;
+    padding-bottom: 4rem;
   }
 }
