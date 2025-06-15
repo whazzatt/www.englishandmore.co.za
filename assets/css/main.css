@@ -8618,3 +8618,9 @@ input, select, textarea {
 .gallery.style2 article {
   position: relative;
 }
+
+@media screen and (max-width: 736px) {
+  .banner .content {
+    padding-bottom: 2rem;
+  }
+}
